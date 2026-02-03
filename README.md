@@ -13,7 +13,7 @@ The project demonstrates how the NIST CSF core functions (Identify, Protect, Det
 - Incident documentation and communication
 
 ## Project Files
-- **incident-response-analysis.md** – Full incident analysis mapped to the NIST CSF lifecycle
+- **incident-response-analysis.md** Full incident analysis mapped to the NIST CSF lifecycle
 
 Prepared by: Sambou Kamissoko  
 LinkedIn: https://www.linkedin.com/in/sambouk/
